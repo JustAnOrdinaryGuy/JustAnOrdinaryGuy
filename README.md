@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JustAnOrdinaryGuy
+- 👀 I’m interested in coding and finding new method of learning code
+- 🌱 I’m currently learning Python and Pascal (My school only teach Pascal)
+- 💞️ I’m looking to collaborate on something in the future
+- 📫 For work ONLY: thaithanh2410@gmail.com
